@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.0](https://github.com/googleapis/java-bigquerymigration/compare/v0.4.1...v0.5.0) (2022-07-19)
+
+
+### Features
+
+* Add Presto dialect to bigquerymigration v2 client library ([#143](https://github.com/googleapis/java-bigquerymigration/issues/143)) ([688b685](https://github.com/googleapis/java-bigquerymigration/commit/688b685e9fd3d3d7a15e80d5c11241ffdf473f09))
+
 ## [0.4.1](https://github.com/googleapis/java-bigquerymigration/compare/v0.4.0...v0.4.1) (2022-07-13)
 
 
