@@ -75,7 +75,7 @@
       <dependency>
         <groupId>com.google.api.grpc</groupId>
         <artifactId>grpc-google-cloud-bigquerymigration-v2</artifactId>
-        <version>0.7.0</version><!-- {x-version-update:grpc-google-cloud-bigquerymigration-v2:current} -->
+        <version>0.6.3-SNAPSHOT</version><!-- {x-version-update:grpc-google-cloud-bigquerymigration-v2:current} -->
       </dependency>
       <dependency>
         <groupId>com.google.api.grpc</groupId>
