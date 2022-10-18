@@ -69,7 +69,7 @@
       <dependency>
         <groupId>com.google.cloud</groupId>
         <artifactId>google-cloud-bigquerymigration</artifactId>
-        <version>0.6.3-SNAPSHOT</version><!-- {x-version-update:google-cloud-bigquerymigration:current} -->
+        <version>0.7.0</version><!-- {x-version-update:google-cloud-bigquerymigration:current} -->
       </dependency>
       <dependency>
         <groupId>com.google.api.grpc</groupId>
